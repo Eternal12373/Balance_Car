@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "chassis_behaviour.h": "c",
+        "chassis_task.h": "c"
+    }
+}

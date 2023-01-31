@@ -1,0 +1,13 @@
+*** Using Compiler 'V5.06 update 4 (build 422)', folder: 'E:\Keil\ARM\ARMCC\Bin'
+Build target 'Balance_Car'
+compiling chassis_task.c...
+..\Tasks\chassis_task.c(408): warning:  #1-D: last line of file ends without a newline
+  }
+..\Tasks\chassis_task.c(389): warning:  #177-D: function "pid_control_loop"  was declared but never referenced
+  static void pid_control_loop()
+..\Tasks\chassis_task.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=58128 RO-data=2788 RW-data=440 ZI-data=47416  
+FromELF: creating hex file...
+"Balance_Car\Balance_Car.axf" - 0 Error(s), 2 Warning(s).
+Build Time Elapsed:  00:00:02
